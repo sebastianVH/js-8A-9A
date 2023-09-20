@@ -44,7 +44,7 @@ nombres.sort().reverse()
 //! CASO NUMERICO
 
 const numeros = [10, 6, 19, 23 ,3 , 39,2,4, 45]
-numeros.sort((a,b) => b - a) //Ordena los elementos de manera ASCENDENTE, si elprimero que compara es MAS CHICO QUE EL SIGUIENTE.
+numeros.sort((a,b) => b - a) //Ordena los elementos de manera ASCENDENTE, si el primero que compara es MAS CHICO QUE EL SIGUIENTE.
 //Si quisiera ordenarlo de manera DESCENDENTE, solo cambio el ORDEN DE LA RESTA (b-a)
 
 //*Concat(): unificando arrays
